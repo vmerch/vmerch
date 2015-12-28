@@ -1,0 +1,15 @@
+name:           Valerie Merchant
+author:         Valerie Merchant
+description:    From the desk of vmerch
+keyowrds:       graphic designer
+url:            http://vmerch.me
+
+markdown:       kramdown
+highlighter:    pygments
+permalink:      pretty
+encoding:       UTF-8
+
+exclude:        ["README.md", "Gemfile*"]
+
+sass:
+  style: compressed
