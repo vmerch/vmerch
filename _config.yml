@@ -2,7 +2,7 @@ name:           Valerie Merchant
 author:         Valerie Merchant
 description:    From the desk of vmerch
 keyowrds:       graphic designer
-url:            http://vmerch.me
+url:            http://vmerch.github.io
 
 markdown:       kramdown
 highlighter:    pygments
