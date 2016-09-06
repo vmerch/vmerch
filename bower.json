@@ -1,0 +1,14 @@
+{
+  "name": "vmerch.github.io",
+  "homepage": "vmerch.github.io",
+  "authors": [
+    "Valerie Merchant <me@vmerch.me>"
+  ],
+  "description": "Personal Website for Valerie Merchant",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~3.1",
+    "bootstrap": "v4.0.0-alpha.4"
+  }
+}
