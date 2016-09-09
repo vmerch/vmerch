@@ -12,4 +12,5 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
 </head>
 
-<body{% if page.id %} id="{{ page.id }}"{% endif %} class="{{ page.layout }}">
+<body{% if page.id %} id="{{ page.id }}"{% endif %}
+  class="{{ page.layout }}{% if page.slug != null %} {{ page.slug }}{% endif %}">
