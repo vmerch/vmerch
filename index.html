@@ -1,0 +1,65 @@
+---
+layout: default
+title: vmerch
+work:
+  - print
+  - lettering
+  - web
+---
+
+<!-- About Me! -->
+<section class="about">
+	<h1 class="about__hello">
+		<img
+			class="about__hello__img"
+			src="https://placekitten.com/g/100/100"
+			alt="Picture of {{ site.data.about.first_name }}"
+		>
+		<span class="about__hello__hi">
+			Hi, I'm {{ site.data.about.first_name }}.
+		</span>
+	</h1>
+
+	<p class="about__myself">
+		{{ site.data.about.myself }}
+	</p>
+</section>
+
+
+<!-- Werk -->
+{% for work in page.work %}
+	<!-- {{ work | uppercase }} -->
+	<section class="work {{ work }}">
+		<h2 class="work__heading">
+			{{ site.data[work].heading }}
+		</h2>
+
+		<ul class="work__items">
+			{% for item in site.data[work].items %}
+				<li>
+					<a
+						class="work__item"
+						style="background-image: url('{{ item.thumbnail }}');"
+						href="{{ item.image }}"
+						data-lightbox="{{ work }}"
+						data-title="{{ item.name | escape }}"
+					>
+						{{ item.name }}
+				</a>
+				</li>
+			{% endfor %}
+		</ul>
+
+	</section>
+{% endfor %}
+
+
+<!-- JS -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/lightbox.js"></script>
+<script>
+	lightbox.option({
+		'resizeDuration': 200,
+		'wrapAround': true,
+	})
+</script>

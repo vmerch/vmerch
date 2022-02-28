@@ -1,0 +1,30 @@
+heading: Web
+
+# Example for images
+# thumbnail: /assets/work/web/[the-image]-thumbnail.jpg
+# image: /assets/work/web/[the-image].jpg
+
+items:
+  - name: Bayer HFCU
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: First Bank & Trust
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Texas Bay CU
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Bank Financal
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Mainstreet CU
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Busey Bank
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
