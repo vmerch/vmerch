@@ -1,7 +1,27 @@
-{% include header.html %}
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ site.title }}</title>
 
-  <div class="container">
-    {{ content }}
-  </div>
+		<!-- Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700&display=swap" rel="stylesheet">
 
-{% include footer.html %}
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/style.css">
+		<link rel="stylesheet" href="/assets/css/lightbox.css">
+
+	</head>
+
+	<body>
+		{% include header.html %}
+
+		{{ content }}
+
+		{% include footer.html %}
+	</body>
+</html>

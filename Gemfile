@@ -1,4 +1,9 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+# frozen_string_literal: true
 
-gem "github-pages"
+source "https://rubygems.org"
+
+gem 'jekyll', '~> 4.2'
+
+group :development do
+	gem "webrick"
+end

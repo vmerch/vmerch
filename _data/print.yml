@@ -1,0 +1,46 @@
+heading: Print, Illustration &amp; Branding
+
+# Example for images
+# thumbnail: /assets/work/print/[the-image]-thumbnail.jpg
+# image: /assets/work/print/[the-image].jpg
+
+items:
+  - name: Children's Book Illustration
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Wedding Invite
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Gym T-Shirt Design
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: CrossFit Competition T-Shirt Design
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Fun, Full Color Mailer
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Abstract Postcard
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Menu Design for Kargi Gogo
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Alertnate Menu Design for Kargi Gogo
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Pop Fizz Clink Event Logo Redesign
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
+
+  - name: Typographic Postcard
+    thumbnail: https://placekitten.com/260/260
+    image: https://placekitten.com/800/600
