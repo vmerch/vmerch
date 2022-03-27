@@ -23,6 +23,8 @@ jobs:
       # Ruby version is automatically set with `.ruby-version`
       - name: 💎 setup ruby
         uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
