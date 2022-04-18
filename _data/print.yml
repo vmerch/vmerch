@@ -6,41 +6,65 @@ heading: Print, Illustration &amp; Branding
 
 items:
   - name: Children's Book Illustration
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-micahs.jpg
+    image: /assets/images/work/print/print-micahs-modal.jpg
 
   - name: Wedding Invite
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-wedding-invite.jpg
+    image: /assets/images/work/print/print-wedding-invite-modal.jpg
 
   - name: Gym T-Shirt Design
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-pdxstrength-tshirt.jpg
+    image: /assets/images/work/print/print-pdxstrength-tshirt-modal.jpg
 
   - name: CrossFit Competition T-Shirt Design
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-av-club-tshirt.jpg
+    image: /assets/images/work/print/print-av-club-tshirt-modal.jpg
 
   - name: Fun, Full Color Mailer
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-pickMeCard.jpg
+    image: /assets/images/work/print/print-pickMeCard-modal.jpg
 
-  - name: Abstract Postcard
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+  - name: Hurricane Charlie Postcard
+    thumbnail: /assets/images/work/print/print-floridaPostcard.jpg
+    image: /assets/images/work/print/print-floridaPostcard-modal.jpg
 
   - name: Menu Design for Kargi Gogo
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-kargiMenu.jpg
+    image: /assets/images/work/print/print-kargiMenu-modal.jpg
 
   - name: Alertnate Menu Design for Kargi Gogo
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-kargiMenuAlt.jpg
+    image: /assets/images/work/print/print-kargiMenuAlt-modal.jpg
 
-  - name: Pop Fizz Clink Event Logo Redesign
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+  - name: Pop Fizz Clink Events Logo Redesign
+    thumbnail: /assets/images/work/print/print-popfizzclink.jpg
+    image: /assets/images/work/print/print-popfizzclink-modal.jpg
+
+  - name: Top Honors for ICPF Logo Redesign
+    thumbnail: /assets/images/work/print/print-icpf.jpg
+    image: /assets/images/work/print/print-icpf-modal.jpg
 
   - name: Typographic Postcard
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/print/print-ggPostcard.jpg
+    image: /assets/images/work/print/print-ggPostcard-modal.jpg
+
+  - name: Satirical Logo Design
+    thumbnail: /assets/images/work/print/print-lightenUp.jpg
+    image: /assets/images/work/print/print-lightenUp-modal.jpg
+
+  - name: Fun with Typography as Image
+    thumbnail: /assets/images/work/print/print-camel.jpg
+    image: /assets/images/work/print/print-camel-modal.jpg
+
+  - name: Skater Icons; Motion Exploration
+    thumbnail: /assets/images/work/print/print-skaters.jpg
+    image: /assets/images/work/print/print-skaters-modal.jpg
+
+  - name: Poster Design for Beardshear Hall
+    thumbnail: /assets/images/work/print/print-poster.jpg
+    image: /assets/images/work/print/print-poster-modal.jpg
+
+  - name: Baby Shower Decor
+    thumbnail: /assets/images/work/print/print-sprinkle.jpg
+    image: /assets/images/work/print/print-sprinkle-modal.jpg
