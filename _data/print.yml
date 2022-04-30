@@ -68,3 +68,7 @@ items:
   - name: Baby Shower Decor
     thumbnail: /assets/images/work/print/print-sprinkle.jpg
     image: /assets/images/work/print/print-sprinkle-modal.jpg
+
+  - name: Seamless Pattern
+    thumbnail: /assets/images/work/print/repeatingpattern.jpg
+    image: /assets/images/work/print/repeatingpattern-modal.jpg
