@@ -6,25 +6,29 @@ heading: Web
 
 items:
   - name: Bayer HFCU
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/web/bayerhfcu.jpg
+    image: /assets/images/work/web/bayerhfcu-modal.jpg
 
   - name: First Bank & Trust
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/web/bankeasy.jpg
+    image: /assets/images/work/web/bankeasy-modal.jpg
 
   - name: Texas Bay CU
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/web/texasbaycu.jpg
+    image: /assets/images/work/web/texasbaycu-modal.jpg
 
-  - name: Bank Financal
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+  - name: Profinium
+    thumbnail: /assets/images/work/web/profinium.jpg
+    image: /assets/images/work/web/profinium-modal.jpg
 
   - name: Mainstreet CU
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/web/mainstreetcu.jpg
+    image: /assets/images/work/web/mainstreetcu-modal.jpg
 
   - name: Busey Bank
-    thumbnail: https://placekitten.com/260/260
-    image: https://placekitten.com/800/600
+    thumbnail: /assets/images/work/web/busey.jpg
+    image: /assets/images/work/web/busey-modal.jpg
+
+  - name: Community Bank
+    thumbnail: /assets/images/work/web/communitybank.jpg
+    image: /assets/images/work/web/communitybank-modal.jpg
