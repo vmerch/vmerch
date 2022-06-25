@@ -1,0 +1,53 @@
+/**
+ * Werk
+ */
+ .work {
+	border-top: 1px solid #2a2e31;
+	padding-top: 140px;
+	margin-bottom: 160px;
+}
+
+.work__heading {
+	font-size: 40px;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+}
+
+.work__items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+	li:nth-child(4n) .work__item {
+		margin-right: 0;
+	}
+}
+
+.work__item {
+	width: 260px;
+	height: 260px;
+	border: none;
+	border-radius: 130px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 26px;
+	margin-right: 20px;
+	opacity: 0.8;
+	font-size: 18px;
+	color: #2a2e31;
+	cursor: pointer;
+	transition: all 0.3s ease-out;
+	background-size: contain;
+
+	&:active,
+	&:hover,
+	&:focus {
+		opacity: 1;
+		text-decoration: underline;
+	}
+}

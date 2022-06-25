@@ -1,0 +1,14 @@
+body {
+	max-width: 1100px;
+	background-color: #1b1f22;
+	font-family: $font-family;
+	font-weight: $font-weight-regular;
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
