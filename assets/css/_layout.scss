@@ -1,0 +1,38 @@
+/**
+ * Header
+ */
+ header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-transform: uppercase;
+	margin-bottom: 170px;
+}
+
+
+/**
+ * Logo
+ */
+ .site-logo {
+	font-weight: 700;
+	font-size: 50px;
+	letter-spacing: 0.02em;
+}
+
+
+/**
+ * Footer
+ */
+footer {
+	font-size: 40px;
+	margin-bottom: 117px;
+}
+
+.footer__contact {
+	text-decoration: underline;
+
+	&:hover,
+	&:focus {
+		text-decoration: none;
+	}
+}

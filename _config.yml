@@ -1,2 +1,8 @@
 # Config
 title: vmerch
+
+# Sass
+#
+# Required to set the sass_dir in order to use imports
+sass:
+  sass_dir: assets/css
