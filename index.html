@@ -39,13 +39,16 @@ work:
 				<li>
 					<a
 						class="work__item"
-						style="background-image: url('{{ item.thumbnail }}');"
 						href="{{ item.image }}"
 						data-lightbox="{{ work }}"
 						data-title="{{ item.name | escape }}"
+						style="background-image: url('{{ item.thumbnail }}');"
 					>
-						{{ item.name }}
-				</a>
+						<span class="work__item__caption">
+							{{ item.name }}
+						</span>
+					</a>
+
 				</li>
 			{% endfor %}
 		</ul>
