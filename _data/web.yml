@@ -32,3 +32,7 @@ items:
   - name: Community Bank
     thumbnail: /assets/images/work/web/communitybank.jpg
     image: /assets/images/work/web/communitybank-modal.jpg
+
+  - name: Riverview Bank
+    thumbnail: /assets/images/work/web/riverviewbank.jpg
+    image: /assets/images/work/web/riverviewbank-modal.jpg
