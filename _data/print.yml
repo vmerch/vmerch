@@ -73,6 +73,6 @@ items:
     thumbnail: /assets/images/work/print/repeatingpattern.jpg
     image: /assets/images/work/print/repeatingpattern-modal.jpg
 
-    - name: Vinly Glass Door Design
-      thumbnail: /assets/images/work/print/sjpt.jpg
-      image: /assets/images/work/print/stpt-modal.jpg
+  - name: Vinyl Glass Door Design
+    thumbnail: /assets/images/work/print/sjpt.jpg
+    image: /assets/images/work/print/stpt-modal.jpg
