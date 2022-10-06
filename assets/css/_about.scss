@@ -1,0 +1,38 @@
+/**
+ * About
+ */
+.about__hello {
+	display: flex;
+	flex-direction: column;
+
+	@media (min-width: 400px) {
+		flex-direction: row;
+		align-items: flex-end;
+	}
+}
+
+.about__hello__img {
+	width: 200px;
+	height: auto;
+	margin-right: 20px;
+	border-radius: 100px;
+}
+
+.about__hello__hi {
+	font-size: 40px;
+	color: #cbcbcb;
+}
+
+.about__myself {
+	font-size: 24px;
+	margin-bottom: 160px;
+}
+
+.about__email {
+	font-weight: 700;
+	font-size: 12px;
+
+	@media (min-width: 500px) {
+		font-size: 16px;
+	}
+}
