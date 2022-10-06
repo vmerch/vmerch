@@ -9,9 +9,9 @@ items:
     thumbnail: /assets/images/work/web/bayerhfcu.jpg
     image: /assets/images/work/web/bayerhfcu-modal.jpg
 
-  - name: First Bank & Trust
-    thumbnail: /assets/images/work/web/bankeasy.jpg
-    image: /assets/images/work/web/bankeasy-modal.jpg
+  - name: Security Federal Bank
+    thumbnail: /assets/images/work/web/securityfederalbank.jpg
+    image: /assets/images/work/web/securityfederalbank-modal.jpg
 
   - name: Texas Bay CU
     thumbnail: /assets/images/work/web/texasbaycu.jpg
