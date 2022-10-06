@@ -29,10 +29,6 @@ items:
     thumbnail: /assets/images/work/lettering/lettering-goforit.jpg
     image: /assets/images/work/lettering/lettering-goforit-modal.jpg
 
-  - name: Bold New Adventure
-    thumbnail: /assets/images/work/lettering/lettering-adventure.jpg
-    image: /assets/images/work/lettering/lettering-adventure-modal.jpg
-
   - name: The Smallest Things
     thumbnail: /assets/images/work/lettering/lettering-smallest-things.jpg
     image: /assets/images/work/lettering/lettering-smallest-things-modal.jpg
@@ -44,3 +40,11 @@ items:
   - name: Upcycled Fleece Tug Toys
     thumbnail: /assets/images/work/lettering/lettering-tug.jpg
     image: /assets/images/work/lettering/lettering-tug-modal.jpg
+
+  - name: Half Marathon T-Shirt with Block Lettering
+    thumbnail: /assets/images/work/lettering/crushedit.jpg
+    image: /assets/images/work/lettering/crushedit-modal.jpg
+
+  - name: Less Haters Moar Taters
+    thumbnail: /assets/images/work/lettering/haters-taters.jpg
+    image: /assets/images/work/lettering/haters-taters-modal.jpg
